@@ -3,7 +3,7 @@ export default function SplashScreen() {
   return (
     <View style={styles.container}>
       <Image
-        source={require("../../assets/garderie.png")}
+        source={require("../../assets/garderie.webp")}
         style={styles.image}
       />
       <Text style={styles.title}>MA Garderie</Text>
