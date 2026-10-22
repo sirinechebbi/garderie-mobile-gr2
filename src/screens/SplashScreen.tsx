@@ -7,7 +7,7 @@ export default function SplashScreen() {
         style={styles.image}
       />
       <Text style={styles.title}>MA Garderie</Text>
-      <Text style={styles.text}>Bienvenue dans notre garderiee</Text>
+      <Text style={styles.text}>Bienvenue dans notre garderiie</Text>
     </View>
   );
 }
@@ -21,6 +21,7 @@ const styles = StyleSheet.create({
   image: {
     width: 200,
     height: 200,
+    
   },
   title: { fontWeight: "bold", fontSize: 22 },
   text: { fontSize: 18 },
