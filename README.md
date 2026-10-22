@@ -54,3 +54,15 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Captures d'écran
+
+### Splash Screen
+![Splash Screen](screenshots/splash.png)
+
+### Page principale avec la liste des menus
+![Liste des menus](screenshots/homescreen.png)
+
+### Drawer ouvert
+![Drawer](screenshots/drawer.png)
+
