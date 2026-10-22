@@ -58,7 +58,7 @@ Join our community of developers creating universal apps.
 ## Captures d'écran
 
 ### Splash Screen
-![Splash Screen](screenshots/splash.png)
+![Splash Screen](screenshots/splashscreen.png)
 
 ### Page principale avec la liste des menus
 ![Liste des menus](screenshots/homescreen.png)
